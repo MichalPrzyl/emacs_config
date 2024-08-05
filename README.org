@@ -1,0 +1,6 @@
+#+title: Readme
+
+* let's check if github can parse and display org files
+this is just some random header (bullet)
+** nested
+** I have to check how to auto indent headers
