@@ -1,4 +1,4 @@
-#+title: Emacs configuratione
+#+title: Emacs configuration
 
 * Emacs configuration
 
