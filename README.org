@@ -1,6 +1,5 @@
-#+title: Readme
+#+title: Emacs configuratione
 
-* let's check if github can parse and display org files
-this is just some random header (bullet)
-** nested
-** I have to check how to auto indent headers
+* Emacs configuration
+
+I am new at emacs and this repository will contain my emacs config. Especially doom.
